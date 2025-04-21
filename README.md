@@ -39,6 +39,7 @@ This repository contains my C++ solutions to a variety of Codeforces problems, o
 | 734A       | Anton and Danik                 | [View Problem](https://codeforces.com/problemset/problem/734/A) |
 | 791A       | Bear and Big Brother            | [View Problem](https://codeforces.com/problemset/problem/791/A) |
 | 977A       | Wrong Subtraction               | [View Problem](https://codeforces.com/problemset/problem/977/A) |
+| 723A       | The New Year: Meeting Friends   | [View Problem](https://codeforces.com/problemset/problem/723/A) |
 
 ## Repository Structure
 
