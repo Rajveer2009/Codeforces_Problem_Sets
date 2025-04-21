@@ -66,12 +66,12 @@ codeforce_problem_sets/
 
 2. **Compile the code**  
    ```
-   g++ main.cpp -o solution
+   g++ 1030A - In Search of an Easy Problem.cpp -o 1030A - In Search of an Easy Problem
    ```
 
 3. **Run the executable**  
    ```
-   ./solution
+   ./1030A - In Search of an Easy Problem
    ```
 
 ## Contribution
