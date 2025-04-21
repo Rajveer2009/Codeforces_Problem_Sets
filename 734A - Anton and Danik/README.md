@@ -34,8 +34,8 @@ It is guaranteed that the optimal meeting point results in an integer total dist
 ## How to Compile and Run
 
 ```bash
-g++ -std=c++11 -o meeting_friends meeting_friends.cpp
-./meeting_friends
+g++ -std=c++11 -o 734A - Anton and Danik 734A - Anton and Danik.cpp
+./734A - Anton and Danik
 ```
 
 ## [License](../LICENSE.md)
