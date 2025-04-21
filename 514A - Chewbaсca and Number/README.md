@@ -35,8 +35,8 @@ Given an integer \( x \), Chewbacca wants to minimize it by inverting some of it
 ## How to Compile and Run
 
 ```bash
-g++ -std=c++11 -o chewbacca chewbacca.cpp
-./chewbacca
+g++ -std=c++11 -o 514A - Chewbaсca and Number 514A - Chewbaсca and Number.cpp
+./514A - Chewbaсca and Number
 ```
 
 ## [License](../LICENSE.md)
