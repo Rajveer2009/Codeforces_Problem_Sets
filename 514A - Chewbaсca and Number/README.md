@@ -1,5 +1,4 @@
-# Chewbacca and Number (Codeforces 514A)
-
+# Chewbacca and Number
 
 This directory contains my solution to the Codeforces problem [Chewbacca and Number (514A)](https://codeforces.com/problemset/problem/514/A).
 
