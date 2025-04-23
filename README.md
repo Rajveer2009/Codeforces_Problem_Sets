@@ -40,6 +40,7 @@ This repository contains my C++ solutions to a variety of Codeforces problems, o
 | 791A       | Bear and Big Brother            | [View Problem](https://codeforces.com/problemset/problem/791/A) |
 | 977A       | Wrong Subtraction               | [View Problem](https://codeforces.com/problemset/problem/977/A) |
 | 723A       | The New Year: Meeting Friends   | [View Problem](https://codeforces.com/problemset/problem/723/A) |
+| 510A       | Fox And Snake                   | [View Problem](https://codeforces.com/problemset/problem/510/A) |
 
 ## Repository Structure
 
